@@ -1,2 +1,5 @@
 .idea
 .DS_Store
+
+## Node Modules
+/04 Webpack/node_modules/
